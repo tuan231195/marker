@@ -20,7 +20,7 @@ dependencies = [
     "tqdm>=4.66.1,<5",
     "ftfy>=6.1.1,<7",
     "rapidfuzz>=3.8.1,<4",
-    "surya-ocr @ git+ssh://git@github.com/tuan231195/surya.git@master",
+    "surya-ocr @ git+https://github.com/tuan231195/surya.git@master",
     "regex>=2024.4.28",
     "pdftext>=0.7.0,<0.8.0",
     "markdownify>=1.1.0,<2",
